@@ -1,7 +1,8 @@
-simple k8s project  
+
+# simple k8s project 
+---
 
 
-# simple k8s project  
 #  Simple Notes App  
 
 This is a simple notes app built with React and Django
