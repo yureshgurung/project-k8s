@@ -22,7 +22,8 @@ This is a simple notes app built with React and Django
 ### 1. Clone the Repository
 
 ```bash
-⚠️ Note: This project is based on a simple Kubernetes practice project cloned from GitHub and used for learning and deployment purposes.
+⚠️ Note:This is a simple Kubernetes project where the application code is cloned from this GitHub link for learning and deployment purposes.
+
 git clone https://github.com/LondheShubham153/django-notes-app.git
 cd django-notes-app
 ```
