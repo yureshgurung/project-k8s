@@ -8,13 +8,14 @@ This is a simple notes app built with React and Django
 
 ##  Architecture
 
-```
-<img width="1253" height="369" alt="image" src="https://github.com/user-attachments/assets/d7f3e0d9-3070-42cd-9116-01c22d042402" />
+<img width="975" height="284" alt="image" src="https://github.com/user-attachments/assets/8d4253c8-4c07-45ee-ba8a-82c3ca2fe1e8" />
 
 
-```
 
----
+
+
+
+
 
 ## Installation & Setup
 
